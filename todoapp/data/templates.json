@@ -1,0 +1,21 @@
+[
+    {
+        "ActivityId": null,
+        "TaskId": 1000000,
+        "TaskCode": "MF000000001",
+        "TaskDescription": "Analisi e coordinamento",
+        "JobCode": "MF000001",
+        "JobDescription": "Nuova infrastruttura applicativa",
+        "Date": "0001-01-01T00:00:00",
+        "Notes": null,
+        "OfficeCode": "TS",
+        "OfficeDescription": "AziendaX Trieste",
+        "Transfer": false,
+        "Location": null,
+        "Duration": null,
+        "CompanyId": 0,
+        "SignedByEmployee": false,
+        "SignedByManager": false,
+        "Inactivity": false
+    }
+]
